@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Python script is designed to fetch the number of subscribers for a given
- subreddit from Reddit’s API.
+ subreddit from Reddit’s API. 
 """
 
 # Import get function which is used to send HTTP requests.
