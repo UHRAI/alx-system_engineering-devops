@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ raddit api
-Script to count subreddit titles with keywords.
+Script to count subreddit titles with keywords
 """
 
 import requests
